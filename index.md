@@ -1,6 +1,6 @@
 # Privacy Policy — Walletly
 
-_Last updated: 9 November 2026_
+_Last updated: 10 November 2026_
 
 Walletly ("the app") is developed by Abdul Aleem. This policy explains what the app does with your information.
 
@@ -31,7 +31,7 @@ If you use voice entry, the app uses your phone's built-in speech recognition se
 If you turn on the daily reminder, budget alerts, bill and subscription reminders or the zakat date reminder, the app shows local notifications on your device. No data is sent anywhere.
 
 ## Purchases (Pro)
-The app offers a 7-day free trial of Pro features, then an optional one-time Lifetime Pro purchase through Google Play. Payments are handled entirely by Google Play; we never see your card or payment details. To verify and restore purchases, the app uses RevenueCat, which receives an anonymous app user ID and your purchase history (what was bought and when) under RevenueCat's privacy policy (revenuecat.com/privacy). None of the financial data you enter in the app is shared with RevenueCat. The trial start date is stored only on your device.
+The app offers a 15-day free trial of Pro features, then an optional one-time Lifetime Pro purchase through Google Play. Payments are handled entirely by Google Play; we never see your card or payment details. To verify and restore purchases, the app uses RevenueCat, which receives an anonymous app user ID and your purchase history (what was bought and when) under RevenueCat's privacy policy (revenuecat.com/privacy). None of the financial data you enter in the app is shared with RevenueCat. The trial start date is stored only on your device.
 
 ## Analytics, ads and tracking
 The app contains no advertising, no analytics and no tracking SDKs.
